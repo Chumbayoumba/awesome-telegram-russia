@@ -169,6 +169,12 @@
 
 ---
 
+## 🔓 Доступ к Telegram при блокировках
+
+- [WEB-прокси для Telegram Desktop](https://vnespiska.win/webproxy/) — бесплатный прокси нового типа (Telegram Desktop 7.1.1+): трафик идёт через обычный HTTPS. Сервер `free.vnespiska.win`, секрет `9fc8d7d1aeee614bd5fa3b760da44dd3`.
+- [tproxy-server](https://github.com/telegramdesktop/tproxy-server) — официальный сервер WEB-прокси от команды Telegram Desktop, чтобы поднять свой.
+- [Бесплатный MTProto-прокси](https://github.com/Chumbayoumba/free-telegram-proxy-russia-2026) — для телефонов, где WEB-прокси пока нет.
+
 ## 🎨 Шаблоны и бойлерплейты
 
 ### Telegram боты
